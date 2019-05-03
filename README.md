@@ -1,2 +1,2 @@
-# multithread
-本仓为学习多线程相关知识
+# Guava-learning
+此教程为本人学习Guava过程中实验的代码
