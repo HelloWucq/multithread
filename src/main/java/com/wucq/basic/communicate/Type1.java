@@ -13,7 +13,7 @@ import org.slf4j.LoggerFactory;
 public class Type1 {
 
     private static final Logger logger = LoggerFactory.getLogger(Type1.class);
-    private static volatile List list = new ArrayList<>();
+    private static volatile List<String> list = new ArrayList<>();
 
     public static void main(String[] args) {
 
