@@ -5,7 +5,9 @@ import java.util.concurrent.CountDownLatch;
 import org.apache.log4j.BasicConfigurator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+/**
+ * CountDownLatchTest :若干个线程等待其他的线程执行完毕
+ */
 public class CountDownLatchTest {
 
     private static final Logger logger=LoggerFactory.getLogger(CountDownLatchTest.class);

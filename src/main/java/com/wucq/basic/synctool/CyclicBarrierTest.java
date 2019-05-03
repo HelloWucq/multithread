@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * CyclicBarrierTest
+ * CyclicBarrierTest:线程间的相互等待，可以重用
  */
 public class CyclicBarrierTest {
 
